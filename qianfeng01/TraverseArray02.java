@@ -1,5 +1,7 @@
 package qianfeng01;
-
+/*
+ * 打印数组
+ */
 import java.util.Arrays;
 
 /*
