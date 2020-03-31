@@ -9,3 +9,4 @@ out
 gen
 base/
 out/
+.DS_Store

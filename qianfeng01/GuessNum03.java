@@ -2,7 +2,7 @@ package qianfeng01;
 
 import java.util.Random;
 import java.util.Scanner;
-
+// 猜数游戏
 public class GuessNum03 {
     public static void main (String[] args) {
         int[] nums = new int[5]; // 初始化一个数组

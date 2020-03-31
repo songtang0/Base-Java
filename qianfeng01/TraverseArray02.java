@@ -22,5 +22,7 @@ public class TraverseArray02 {
 //        }
         // 3. Arrays.toString
         System.out.println(Arrays.toString(scores));
+
+
     }
 }
